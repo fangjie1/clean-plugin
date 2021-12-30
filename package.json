@@ -6,14 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["webpack","clean","plugin"],
+  "keywords": [
+    "webpack",
+    "clean",
+    "plugin"
+  ],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "del": "^6.0.0"
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fangjie1/clean-plugin.git"
   },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:fangjie1/clean-plugin.git"
-    }
+  "dependencies": {
+    "del": "^6.0.0"
+  }
 }
