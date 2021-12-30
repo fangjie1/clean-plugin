@@ -1,0 +1,19 @@
+{
+  "name": "clean-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["webpack","clean","plugin"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^6.0.0"
+  },
+    "repository": {
+      "type": "git",
+      "url": "git@github.com:fangjie1/clean-plugin.git"
+    }
+}
